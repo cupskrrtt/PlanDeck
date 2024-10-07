@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@biomejs/biome": "^1.9.3",
+    "@tabler/icons-react": "^3.19.0",
     "next": "14.2.14",
     "react": "^18",
     "react-dom": "^18"
